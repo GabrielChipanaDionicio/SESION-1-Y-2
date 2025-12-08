@@ -4,7 +4,7 @@ st.title("Desarrollo de la IA | Timeline")
 st.write("Autor: Gabriel Chipana | ISIL")
 st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la IA.")
 # URLs de imágenes en GitHub
-base_url = "https://raw.githubusercontent.com/GabrielChipanaDionicio/timeline_s1/main/timeline_images/"
+base_url = "https://raw.githubusercontent.com/GabrielChipanaDionicio/SESION-1-Y-2/main/timeline_images/"
 imagenes = {
    1: base_url + "timeline1.png",
    2: base_url + "timeline2.png",
